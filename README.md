@@ -3,7 +3,7 @@ Shortcut for Auto Start All Scripts (Only PYTHON Scripts)
 AutoStartALLScripts(A.S.A.S.)
 If You want to START IT ALL you need to use !auto-py-to-exe and check option Hidden Start
 
-[Installation]
+[ Installation ]
 
 For    < Windows 10 >
 1. Downlad this repository (and install python latest version)
