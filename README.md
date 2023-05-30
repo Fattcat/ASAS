@@ -9,6 +9,10 @@ If You want to START IT ALL you need to use !auto-py-to-exe and check option Hid
 < + > Doubleclick on installer.py (wait few seconds for installing all necessary files)
 < + > Some instruction here ...
 
+[FIRST USE]
+1. Write to main.py YOUR OWN USB FOR SAVE OUTPUT Example : :E/
+2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
+3. Just plug USB with scripts or converted into exe app.
 [Some Useful things]
 All Python scripts which will begin after start
 You need to start main.py for start it all
