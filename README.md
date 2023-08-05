@@ -1,6 +1,6 @@
 # [Welcome to ASAS]
 Shortcut for Auto Start All Scripts (Only PYTHON Scripts)
-AutoStartALLScripts(A.S.A.S.)
+Auto Start ALL Scripts (A.S.A.S.)
 If You want to START IT ALL you need to use !auto-py-to-exe and check option Hidden Start
 
 # [ Installation ]
@@ -12,20 +12,13 @@ For    < Windows 10 >
 
 # [ FIRST USE ]
 
-1. Write to main.py YOUR OWN USB FOR SAVE OUTPUT Example : :E/
+1. Write to main.py YOUR OWN USB FOR SAVE OUTPUT Example :E/
 2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
 3. Just plug USB with scripts or converted into exe app.
 
 # [ Some Useful things ]
 
 All Python scripts which will begin after start
-You need to start main.py for start it all
-
-1. ScrCap.py
-2. VoiceRec.py
-3. BackupFilesCopy.py
-4. CamShotter.py
-5. WiFiPassSaver.py
-6. CookieStealer.py
-7. WebLogCreds.py
-8. RickRoll (ForFun :D)
+You need to start Starter.exe for start it all.
+A ešte som to nepridal ...
+a aj RickRoll (ForFun :D)
