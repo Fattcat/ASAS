@@ -1,4 +1,4 @@
-# [Welcome to ASAS]
+# [ Welcome to ASAS ]
 Shortcut for Auto Start All Scripts (Only PYTHON Scripts)
 Auto Start ALL Scripts (A.S.A.S.)
 If You want to START IT ALL you need to use !auto-py-to-exe and check option Hidden Start
@@ -12,7 +12,13 @@ For    < Windows 10 Tested : Yes >
 
 # [ FIRST USE ]
 
-1. Write to main.py YOUR OWN USB FOR SAVE OUTPUT Example :E/
+INSTALLATION : 
+ pip install pygame
+ pip install random
+ pip install keyboard
+ pip install os
+
+1. Write to Scripts YOUR OWN USB FOR SAVE OUTPUT Example :E/
 2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
 3. Just plug USB with scripts or converted into exe app.
 
