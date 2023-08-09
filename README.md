@@ -5,10 +5,10 @@ If You want to START IT ALL you need to use !auto-py-to-exe and check option Hid
 
 # [ Installation ]
 
-For    < Windows 10 >
+For    < Windows 10 Tested : Yes >
 1. Downlad this repository (and install python latest version)
-2. Doubleclick on installer.py (wait few seconds for installing all necessary files)
-3. Some instruction here ...
+2. Doubleclick on PY-ULTRA-SpustacToREDUsbE.exe (wait few seconds for start all files)
+3. Some PY-Apps like : KeyLogger.exe have MacroKey F7 Key for STOP Capturing keyStrokes.
 
 # [ FIRST USE ]
 
