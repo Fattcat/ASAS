@@ -1,6 +1,7 @@
 import pygame
 import random
 import time
+import keyboard
 
 pygame.init()
 
@@ -17,7 +18,7 @@ obrazky = ["TrollImage.png", "Image-Thinkink2.png", "Image-Thinking.png", "Fuk2.
 obrazky = [pygame.image.load(ObrazkovyFOlder + obrazok) for obrazok in obrazky]
 
 # Hlavná slučka
-TimeList = [1, 2, 3]
+TimeList = [1, 20, 6, 200, 300, 99]
 cas_zobrazenia_max = random.choice(TimeList)
 cas_zobrazenia_start = time.time()
 
@@ -39,4 +40,6 @@ while bezi:
         
         obrazovka.blit(obrazok, (x, y))
         pygame.display.flip()
+    if keyboard.is_pressed("f7"):
+        break
 pygame.quit()
