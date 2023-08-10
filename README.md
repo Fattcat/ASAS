@@ -10,9 +10,11 @@ For    < Windows 10 Tested : Yes >
 2. Doubleclick on PY-ULTRA-SpustacToREDUsbE.exe (wait few seconds for start all files)
 3. Some PY-Apps like : KeyLogger.exe have MacroKey F7 Key for STOP Capturing keyStrokes.
 
-# [ FIRST USE ]
-
-INSTALLATION : 
+# [ Package INSTALLATION ]
+1. Better :
+Start PackageInstaller.py
+OR
+2. YOU Can Try: 
 ```
 pip install pygame
 pip install random
