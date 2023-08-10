@@ -12,9 +12,7 @@ WallPapers = [
     "TrollImage.png",
     "PEPE-Sad.jpg",
     "vrabec2.jpg",
-    "Det-vrabec.jpg",
-#    ".jpg",
-#    ".jpg"
+    "Det-vrabec.jpg"
     ]
 SleepList = [1, 2, 3, 4, 5, 6, 7, 8, 1]
 RandomTime = random.choice(SleepList)
