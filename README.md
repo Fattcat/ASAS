@@ -13,11 +13,12 @@ For    < Windows 10 Tested : Yes >
 # [ FIRST USE ]
 
 INSTALLATION : 
+```
  pip install pygame
  pip install random
  pip install keyboard
  pip install os
-
+```
 1. Write to Scripts YOUR OWN USB FOR SAVE OUTPUT Example :E/
 2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
 3. Just plug USB with scripts or converted into exe app.
