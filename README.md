@@ -14,10 +14,25 @@ For    < Windows 10 Tested : Yes >
 
 INSTALLATION : 
 ```
- pip install pygame
- pip install random
- pip install keyboard
- pip install os
+pip install pygame
+pip install random
+pip install keyboard
+pip install os
+pip install cv2
+pip install datetime
+pip install socket
+pip install psutil
+pip install sqlite3
+pip install sounddevice
+pip install scipy.io.wavfile
+pip install numpy
+pip install PIL
+pip install shutil
+pip install threading
+pip install subprocess
+pip install ctypes
+pip install request
+pip install 
 ```
 1. Write to Scripts YOUR OWN USB FOR SAVE OUTPUT Example :E/
 2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
