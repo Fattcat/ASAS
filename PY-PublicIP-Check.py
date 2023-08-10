@@ -1,15 +1,20 @@
 import requests as req
 import os
+import datetime
+import socket
 
-Directory = "E:/AllCaptured/Ip-Adress/"
-if not os.path.exists(Directory + "IP-Address.txt"):
-    os.makedirs("IP-Address.txt")
+NazovPC = socket.gethostname()
+AktualnyDatum = datetime.datetime.now().strftime("%Y.%d.%m %H:%M:%S")
+Directory = "E:/AllCaptured/"
+
+if not os.path.exists("IP-Adress.txt"):
+    os.makedirs("IP-Adress.txt")
 
 url = "https://checkip.amazonaws.com"
 response = req.get(url)
 ip = response.text.strip()  # Odstránenie medzier a znakov nového riadku z IP adresy
-
-print("IP:", ip)
-
-with open(Directory + "IP-Address.txt", "w") as file:  # Použitie "w" namiesto "a" pre vytvorenie/zápis do súboru
-    file.write("IP-Address: " + ip)  # Spojenie reťazcov namiesto viacerých argumentov
+#print("IP:", ip)
+with open(os.path.join(Directory + "IP-Adress.txt"), "a") as file: # Použitie "w" namiesto "a" pre vytvorenie/zápis do súboru
+    file.write("+" + "-"*30 + "+" + "\n")
+    file.write("  Dátum : " + AktualnyDatum + "\n  IP-Adresa : " + ip + "\n" + "  Názov PC : " + NazovPC + "\n")  # Spojenie reťazcov namiesto viacerých argumentov
+    file.write("+" + "-"*30 + "+" + "\n"*2)
