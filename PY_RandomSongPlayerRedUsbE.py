@@ -4,7 +4,7 @@ from time import sleep
 import keyboard
 
 song_list = ["Minecraft-Hurt.mp3", "Villager-Hmm.mp3", "Villager-Huh.mp3", "RickRoll.mp3", "spongebob-disappointed.mp3", "Cikoki.wav", "EmotionalDamage.wav", "Papuca.wav"]
-cas = [499, 200, 300, 10, 80, 20, 8, 99, 130, 50]
+cas = [499, 200, 300, 60, 80, 20, 8, 9, 130, 5]
 pygame.mixer.init()
 
 for x in range(99):
