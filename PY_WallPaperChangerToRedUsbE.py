@@ -8,11 +8,11 @@ WallPapers = [
     "Fuk2.jpg",
     "WallPaper-MonstersINC.jpg",
     "WallPaperSpongebobDrinking.jpg",
-#    ".jpg",
-#    ".jpg",
-#    ".jpg",
-#    ".jpg",
-#    ".jpg",
+    "NIKECatWallPaper.jpg",
+    "TrollImage.png",
+    "PEPE-Sad.jpg",
+    "vrabec2.jpg",
+    "Det-vrabec.jpg",
 #    ".jpg",
 #    ".jpg"
     ]
