@@ -1,1 +1,18 @@
 random
+pygame
+random
+keyboard
+os
+cv2
+datetime
+socket
+psutil
+sounddevice
+scipy.io.wavfile
+numpy
+ PIL
+shutil
+threading
+subprocess
+ctypes
+prequest
