@@ -14,7 +14,7 @@ For    < Windows 10 Tested : Yes >
 1. Better :
 Start PackageInstaller.py
 OR
-2. YOU Can Try: 
+2. YOU can Try: 
 ```
 pip install pygame
 pip install random
@@ -34,7 +34,6 @@ pip install threading
 pip install subprocess
 pip install ctypes
 pip install request
-pip install 
 ```
 1. Write to Scripts YOUR OWN USB FOR SAVE OUTPUT Example :E/
 2. All EIGHT Folders with specific Name will be automatically created in USB Drive (by default)
@@ -42,7 +41,7 @@ pip install
 
 # [ Some Useful things ]
 
-All Python scripts which will begin after start
+ALL Python scripts will begin after start
 You need to start Starter.exe for start it all.
 A ešte som to nepridal ...
 a aj RickRoll (ForFun :D)
